@@ -1,0 +1,10 @@
+body{
+    color: rgb(182, 162, 162);
+    background-color: black;
+    text-align: center;
+}
+.butten1{
+    color:black;
+    size: 40px;
+    position: absolute;
+}

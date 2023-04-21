@@ -1,0 +1,90 @@
+body{
+    text-align: center;
+    color: rgb(230, 188, 5);
+    background-color: rgb(12, 12, 12);
+}
+h2{
+    text-align: left;
+}
+h4{
+    color: rgb(15, 255, 7);
+}
+.butten1 {font-size: 30px;
+    color: bgcolor;
+    position: inherit;
+ 
+}
+.butten2 {font-size: 30px;
+    color: rgb(0, 0, 14);
+    position: center;
+ 
+}
+.butten3 {font-size: 30px;
+    color: rgb(240, 240, 245);
+    position: center;
+ 
+}
+body{
+    font-family: 'Handwriting', Courier, monospace;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  animation: bgcolor infinite 50s;
+}
+@keyframes bgcolor {
+    0%
+    {
+        background:#00060c ;
+ 
+    }
+    10%
+    {
+        background:#02172c ;
+ 
+    }
+    20%
+    {
+        background:#02393d ;
+ 
+    }
+    30%
+    {
+        background:#040672 ;
+ 
+    }
+    40%
+    {
+        background:#0919a5 ;
+ 
+    }
+    50%
+    {
+        background:#1707f1 ;
+ 
+    }
+    60%
+    {
+        background:#060144 ;
+ 
+    }
+    70%
+    {
+        background:#1a0350 ;
+ 
+    }
+    80%
+    {
+        background:#020336 ;
+ 
+    } 
+    90%
+    {
+        background:#0e0113 ;
+ 
+    }
+    100%
+    {
+        background:#000408 ;
+ 
+    }
+}
